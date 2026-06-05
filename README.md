@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cue! <br/><a  <a href="www.linkedin.com/in/cue-patrick-khan/">Cybersecurity and Networking Professional</a>
+<h1>Hi, I'm Cue! <br/><a  <a href="https://linkedin.com/in/cue-patrick-khan/">Cybersecurity and Network Professional</a>
 
 <h2>👨‍💻 Networking Projects:</h2>
 
