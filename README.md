@@ -9,7 +9,7 @@
 <b> Fortinet Certified Associate in Cybersecurity (https://training.fortinet.com/pluginfile.php/1/tool_certificate/issues/1780612385/6481716930CK.pdf)
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CuePatrickKhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/cue-patrick-khan
 
