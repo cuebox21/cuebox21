@@ -3,7 +3,7 @@
 <h2>👨‍💻 Networking Projects:</h2>
 
 - <b>Small Office Vlan Network (Cisco Packet Tracer)</b>
-  - [Small Office VLANs, Inter-VLAN routing, DHCP and Basic Security](https://github.com/cuebox21/Small-Office-VLAN-Project))
+  - [Small Office VLANs, Inter-VLAN routing, DHCP and Basic Security](https://github.com/cuebox21/Small-Office-VLAN-Project)
 <h2> 🎓Certifications:</h2>
 
 - <b> CompTIA Security+ https://cp.certmetrics.com/comptia/en/public/verify/credential/e2ffaf8a6ae749c4a63aa1649baf1459
