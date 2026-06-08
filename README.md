@@ -8,6 +8,9 @@
 
 - <b> CompTIA Security+ https://cp.certmetrics.com/comptia/en/public/verify/credential/e2ffaf8a6ae749c4a63aa1649baf1459
 - <b> Fortinet Certified Associate in Cybersecurity https://training.fortinet.com/pluginfile.php/1/tool_certificate/issues/1780612385/6481716930CK.pdf
+<h2>🧑‍💼My Resume:</h2>
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="CuePatrickKhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
