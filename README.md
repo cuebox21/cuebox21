@@ -9,7 +9,7 @@
 - <b>Small Office Vlan Network (Cisco Packet Tracer)</b>
   - [Small Office VLANs, Inter-VLAN routing, DHCP and Basic Security](https://github.com/cuebox21/Small-Office-VLAN-Project)
 - <b>iptables Firewall Configuration Lab (NetinVM, VMWare Workstation Pro) </b>
-  - [iptables Firewall Configuration](https://github.com/cuebox21/Small-Office-VLAN-Project)
+  - [iptables Firewall Configuration](https://github.com/cuebox21/iptables-Firewall-Configuration-Lab)
 <h2> 🎓Certifications:</h2>
 
 - <b> CompTIA Security+
