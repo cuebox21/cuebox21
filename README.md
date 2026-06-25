@@ -12,7 +12,8 @@
   - [iptables Firewall Configuration](https://github.com/cuebox21/Small-Office-VLAN-Project)
 <h2> 🎓Certifications:</h2>
 
-- <b> CompTIA Security+ https://cp.certmetrics.com/comptia/en/public/verify/credential/e2ffaf8a6ae749c4a63aa1649baf1459
+- <b> CompTIA Security+
+https://cp.certmetrics.com/comptia/en/public/verify/credential/e2ffaf8a6ae749c4a63aa1649baf1459
 - <b> Fortinet Certified Associate in Cybersecurity https://training.fortinet.com/pluginfile.php/1/tool_certificate/issues/1780612385/6481716930CK.pdf
 <h2> 🤳 Connect with me:</h2>
 
