@@ -1,5 +1,9 @@
 <h1>Hi, I'm Cue! <br/><a  <a href="https://linkedin.com/in/cue-patrick-khan/">Aspiring Cybersecurity and Network Professional</a>
-
+<h2>🔎 Digital Forensics Projects:</h2>
+  
+- <b>NIST CFRDeS Data Leakage Case, 2015 </b>
+  - [NIST CFRDeS Data Leakage Case, 2015](https://github.com/cuebox21/Small-Office-VLAN-Project)
+  
 <h2>👨‍💻 Networking Projects:</h2>
 
 - <b>Small Office Vlan Network (Cisco Packet Tracer)</b>
