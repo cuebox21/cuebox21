@@ -2,7 +2,7 @@
 <h2>🔎 Digital Forensics Projects:</h2>
   
 - <b>NIST CFRDeS Data Leakage Case, 2015 (Autopsy, FTK Imager, Registry Explorer & DB Browser for SQLite)</b>
-  - [NIST CFRDeS Data Leakage Case, 2015](https://github.com/cuebox21/Small-Office-VLAN-Project)
+  - [NIST CFRDeS Data Leakage Case, 2015](https://github.com/cuebox21/NIST-CFReDS-Data-Leakage-Case-2015)
   
 <h2>👨‍💻 Networking Projects:</h2>
 
