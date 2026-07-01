@@ -2,7 +2,7 @@
   <h2>🪱 Cybersecurity Projects:</h2>
   
 - <b>Vulnerability Scanning and CVE Analysis using OWASP Dependency-Check</b>
-  - [Vulnerability Scanning and CVE Analysis](https://github.com/cuebox21/NIST-CFReDS-Data-Leakage-Case-2015)
+  - [Vulnerability Scanning and CVE Analysis](https://github.com/cuebox21/Vulnerability-Scanning-and-CVE-Analysis)
   <h2>🔎 Digital Forensics Projects:</h2>
   
 - <b>NIST CFRDeS Data Leakage Case, 2015 (Autopsy, FTK Imager, Registry Explorer & DB Browser for SQLite)</b>
